@@ -27,7 +27,7 @@ Passionate about turning complex data into clear, actionable business insights. 
 - **Problem:** Lack of visibility into delivery lead times, supply failures, inventory aging, and overall warehouse stock control.
 - **Tools:** Power BI, Power Query, DAX, Advanced Excel.
 - **Results:** Unified tracking of Customer Order Fulfillment (COF Rate: 94.56%), warehouse efficiency (86.17%), and average delivery time (3.5 days), enabling the identification of supply bottlenecks and in-depth analysis of inventory distribution by age range.
-<img width="602" height="380" alt="Logi" src="https://github.com/user-attachments/assets/5553c44c-0ffc-48b2-9fc8-5038a0819b0e" />
+<img width="602" height="360" alt="Logi" src="https://github.com/user-attachments/assets/5553c44c-0ffc-48b2-9fc8-5038a0819b0e" />
 
 ---
 
